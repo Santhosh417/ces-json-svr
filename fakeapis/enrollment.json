@@ -1,0 +1,34 @@
+{
+  "enrollments": [
+    {
+      "id": 1,
+      "course_id": 1,
+      "student_id": 1,
+      "semester_name": "Spring-2021",
+      "start_date": "08/12/2021",
+      "end_date": "12/26/2021",
+      "status": "Completed",
+      "grade": "A"
+    },
+    {
+      "id": 2,
+      "course_id": 2,
+      "student_id": 1,
+      "semester_name": "Spring-2021",
+      "start_date": "01/12/2021",
+      "end_date": "04/26/2021",
+      "status": "In-Progress",
+      "grade": ""
+    },
+    {
+      "id": 3,
+      "course_id": 3,
+      "student_id": 1,
+      "semester_name": "Spring-2021",
+      "start_date": "01/12/2021",
+      "end_date": "04/26/2021",
+      "status": "In-Progress",
+      "grade": ""
+    }
+  ]
+}

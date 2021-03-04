@@ -1,0 +1,33 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Santhosh",
+      "email": "sveeramalla@unomaha.edu",
+      "mobile_num": "1234123123",
+      "program": "Graduate",
+      "dept": "Computers",
+      "start_date": "03/30/2018",
+      "end_date": "03/30/2020"
+    },
+    {
+      "id": 2,
+      "name": "Shravya",
+      "email": "schandiri@unomaha.edu",
+      "mobile_num": "1111111111",
+      "program": "Graduate",
+      "dept": "Computers",
+      "start_date": "03/30/2020"
+    },
+    {
+      "id": 3,
+      "name": "Aparna Dinesh",
+      "email": "adinesh@unomaha.edu",
+      "mobile_num": "2222222222",
+      "program": "Under-Graduate",
+      "dept": "Computers",
+      "start_date": "03/30/2018",
+      "end_date": "03/30/2020"
+    }
+  ]
+}

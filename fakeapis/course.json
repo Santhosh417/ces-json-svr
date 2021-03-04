@@ -1,0 +1,31 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "course_id": "ISQA8380",
+      "course_name": "Enterprise Architecture",
+      "professor": "Dr. George Royce",
+      "program": "Graduate",
+      "course_type": "online",
+      "credits": 3
+    },
+    {
+      "id": 2,
+      "course_id": "ISQA8210",
+      "course_name": "Mgmt of Software Development",
+      "professor": "Dr. George Royce",
+      "program": "Graduate",
+      "course_type": "In-class",
+      "credits": 3
+    },
+    {
+      "id": 3,
+      "course_id": "ISQA8410",
+      "course_name": "Data Management",
+      "professor": "Dr. Martina Greiner",
+      "program": "Graduate",
+      "course_type": "Remote",
+      "credits": 3
+    }
+  ]
+}
