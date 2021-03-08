@@ -1,14 +1,46 @@
 {
   "students": [
     {
-      "id": 1,
+      "id": 99990909,
       "name": "Santhosh",
       "email": "sveeramalla@unomaha.edu",
       "mobile_num": "1234123123",
       "program": "Graduate",
       "dept": "Computers",
       "start_date": "03/30/2018",
-      "end_date": "03/30/2020"
+      "end_date": "03/30/2020",
+      "enrollments": [
+        {
+          "id": 1,
+          "course_id": "ISQA8380",
+          "course_name": "Enterprise Architecture",
+          "semester_name": "Spring-2021",
+          "start_date": "08/12/2021",
+          "end_date": "12/26/2021",
+          "status": "Completed",
+          "grade": "A"
+        },
+        {
+          "id": 2,
+          "course_id": "ISQA8210",
+          "course_name": "Mgmt of Software Development",
+          "semester_name": "Spring-2021",
+          "start_date": "01/12/2021",
+          "end_date": "04/26/2021",
+          "status": "In-Progress",
+          "grade": ""
+        },
+        {
+          "id": 3,
+          "course_id": "ISQA8410",
+          "course_name": "Data Management",
+          "semester_name": "Spring-2021",
+          "start_date": "01/12/2021",
+          "end_date": "04/26/2021",
+          "status": "In-Progress",
+          "grade": ""
+        }
+      ]
     },
     {
       "id": 2,

@@ -1,0 +1,30 @@
+{
+  "users": [
+  {
+    "id": 23,
+    "authenticated": true,
+    "username": "rickywill",
+    "password" : "pbkdf2_sha256$150000$5cUmjk0qqcpc$bNfHwRuWRI9gK8CbWzCiW6dxwkCP5UlGOHGp5EjKLp4=",
+    "firstName": "Richard",
+    "lastName": "Willams",
+    "emailAddress": "rwillams@unomaha.edu"
+  },
+  {
+    "id": 21,
+    "authenticated": true,
+    "username": "mickroder",
+    "password" : "pbkdf2_sha256$150000$5cUmjk0qqcpc$bNfHwRuWRI9gK8CbWziW6dxwkCP5UlGOHGp5EjKLp4=",
+    "firstName": "Micheal",
+    "lastName": "Roder",
+    "emailAddress": "mroder@unomaha.edu"
+  },
+  {
+    "id": 56,
+    "authenticated": true,
+    "username": "mavarya",
+    "password" : "pbkdf2_sha256$150000$5cUmjk0qqcpc$bNfHwRuWRI9gK8CbWzCiW6dxwkCP5UlGOHGp5EjKLp4=",
+    "firstName": "Arya",
+    "lastName": "Stark",
+    "emailAddress": "astark@unomaha.edu"
+  }]
+}

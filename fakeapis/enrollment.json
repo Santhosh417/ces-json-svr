@@ -2,7 +2,8 @@
   "enrollments": [
     {
       "id": 1,
-      "course_id": 1,
+      "course_id": "ISQA8380",
+      "course_name": "Enterprise Architecture",
       "student_id": 1,
       "semester_name": "Spring-2021",
       "start_date": "08/12/2021",
@@ -12,7 +13,8 @@
     },
     {
       "id": 2,
-      "course_id": 2,
+      "course_id": "ISQA8210",
+      "course_name": "Mgmt of Software Development",
       "student_id": 1,
       "semester_name": "Spring-2021",
       "start_date": "01/12/2021",
@@ -22,7 +24,8 @@
     },
     {
       "id": 3,
-      "course_id": 3,
+      "course_id": "ISQA8410",
+      "course_name": "Data Management",
       "student_id": 1,
       "semester_name": "Spring-2021",
       "start_date": "01/12/2021",
